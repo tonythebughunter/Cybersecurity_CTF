@@ -6,7 +6,7 @@ Hacker101 (HackerOne) – Free training modules and CTF-style challenges to lear
 
 HackThisSite – Classic hands-on hacking challenges (great for fundamentals).
 
-picoCTF – Beginner-friendly CTF challenges that build up from basics to intermediate difficulty.
+picoCTF – Beginner-friendly CTF challenges that build up from basics to intermediate difficulty (Great for Web, Forensics, Reverse Engineering, and Stega).
 
 # 🔗 API Security
 
