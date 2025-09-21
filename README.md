@@ -1,6 +1,6 @@
 # 🔗 Web Security & CTF Practice
 
-PortSwigger Web Security Academy – The gold standard for web security labs (XSS, SQLi, SSRF, etc.).
+PortSwigger Web Security Academy – The gold standard for web security labs (XSS, SQLi, SSRF, File upload vulns, etc).
 
 Hacker101 (HackerOne) – Free training modules and CTF-style challenges to learn practical hacking.
 
